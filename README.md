@@ -53,17 +53,6 @@ Python, Machine Learning, Data Analysis, Pandas, NumPy, Scikit-learn, Flask, Str
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
----
-
-## GitHub Analytics
-![](https://github-readme-stats.vercel.app/api?username=Bhoomika1611&theme=default&hide_border=false&include_all_commits=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Bhoomika1611&theme=default&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhoomika1611&theme=default&hide_border=false&layout=compact)
-
----
-
-## Achievements
-![](https://github-profile-trophy.vercel.app/?username=Bhoomika1611&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
