@@ -55,8 +55,3 @@ Python, Machine Learning, Data Analysis, Pandas, NumPy, Scikit-learn, Flask, Str
 
 
 ---
-
-## Developer Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
